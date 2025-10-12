@@ -1,0 +1,2 @@
+# RESTful API CRUD dengan PostgreSQL
+Proyek ini merupakan implementasi RESTful API. API ini dirancang untuk mengelola data mahasiswa (Students) yang meliputi proses Create, Read, Update, dan Delete (CRUD). 
